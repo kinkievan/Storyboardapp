@@ -299,6 +299,7 @@
 				EC85E45A1E51C9F8009097F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
